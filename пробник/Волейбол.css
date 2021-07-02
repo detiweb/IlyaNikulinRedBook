@@ -1,0 +1,26 @@
+body{
+	background: url(B.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: 'Marck Script', cursive;
+}
+p{
+	color: blue;
+	background-color:orange;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+img{
+	width: 50%;
+	margin-left:25%;
+border: 4px sold grey
+border-radius:5%;
+}
+.card{
+width: 30%;
+height:150px;
+margin-left: 3%;
+display: inline-block;
+}
